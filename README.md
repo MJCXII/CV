@@ -8,7 +8,7 @@ I am an aspiring Junior Software Developer seeking employment. I have worked on 
 | ---------------------------- | ----------------- | ----------------- |
 | **Marble**            | A phone app that allows you to track your anti-consumerist habits. | React, Jest, HTML/CSS, Firebase. |
 | **TWXIIVECoin** | A POC Blockchain and coin, with wallet generation | Javascript              |
-| **Acebook** | , A custom built Facebook clone | Ruby on Rails, SQL and HTML & CSS              |
+| **Acebook** |  A custom built Facebook clone | Ruby on Rails, SQL and HTML & CSS              |
 | **Notebook App** | A custom front‑end only notebook app | Javascript              |
 | **DungeonAssets** |Custom built Minecraft Plugin for a factions server | Java, Spigot API           |
 | **MakersBnB** | A custom built AirBnb clone | Ruby, HTML & CSS              |
@@ -17,6 +17,7 @@ I am an aspiring Junior Software Developer seeking employment. I have worked on 
 
 **Winters Electrical Services** (Feb. 2020 ‑ Nov. 2020)  
 Electrical Design Engineer
+
 • Developing - Writing Dynamo DB Scripts to speed up repetitive processes on Autodesk Revit such as reading and writing data from Excel.
 • Coordination - Producing drawings and 3D models with BIM techniques for electrical installation on site.
 • Design - 3D Modelling replicating technical submissions to work towards replicating a digital twin of the site installation.
