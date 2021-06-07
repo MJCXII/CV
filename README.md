@@ -15,7 +15,7 @@ I am an aspiring Junior Software Developer seeking employment. I have worked on 
 
 ## Work Experience
 
-**Company Name** (Feb. 2020 ‑ Nov. 2020)  
+**Winters Electrical Services** (Feb. 2020 ‑ Nov. 2020)  
 Electrical Design Engineer
 • Developing - Writing Dynamo DB Scripts to speed up repetitive processes on Autodesk Revit such as reading and writing data from Excel.
 • Coordination - Producing drawings and 3D models with BIM techniques for electrical installation on site.
@@ -23,7 +23,7 @@ Electrical Design Engineer
 • Teamwork - Communicating with other designers from different trades to coordinate and create the finished model.
 
 
-**Company Name** (June. 2014 ‑ Feb. 2020)  
+**Winters Electrical Services** (June. 2014 ‑ Feb. 2020)  
 Electrician
 
 • High attention to detail‑ through installing and maintaining wiring, control, and lighting systems to an acceptable standard.
