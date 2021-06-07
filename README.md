@@ -1,6 +1,6 @@
 ## Max Clarke
 
-I am an aspiring Junior Software Developer seeking emplomeny. I have worked on multiple projects including a Cryptocurrency and a React Native phone app. I have been interested in tech since I was very young, obsessing over the future of Virtual reality, Machine Learning and blockchain.
+I am an aspiring Junior Software Developer seeking emploment. I have worked on multiple projects including a Cryptocurrency and a React Native phone app. I have been interested in tech since I was very young, obsessing over the future of Virtual reality, Machine Learning and blockchain.
 
 ## Projects
 
